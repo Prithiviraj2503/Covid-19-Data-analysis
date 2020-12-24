@@ -1,0 +1,17 @@
+comorbidities,present,absent,unknown
+AIDS/HIV,13,2500,803
+Asthma,390,2172,754
+Chronic cardiac disease,701,1871,744
+chronic haematologic disease,79,2356,881
+chronic neurological disorder,216,2305,795
+chronic pulmonary disease,434,2138,744
+Demantia,257,2263,796
+Diabetes,670,2030,616
+Liver disease,83,235,879
+Malignant neoplasm,247,2281,788
+Malnutrition,57,2340,919
+obesity,267,2112,937
+chronic kidney disease,324,2221,771
+rheumatologic disease,205,2220,891
+smoking,150,1390,1776
+other risk factors,932,1432,952

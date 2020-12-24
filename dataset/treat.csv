@@ -1,0 +1,15 @@
+Treatment,present,absent,unknown
+Antibiotic agent,181,109,3026
+Antifungal agent,18,268,3030
+Antiviral agent,89,201,3026
+Corticostreoid agent,46,241,3029
+Extracorporeal membrane oxygenation,44,2495,777
+Inhaled nitric oxide,5,280,3031
+Inotropes/vasopressors,39,246,3031
+Invasive ventilation,407,2160,749
+Non-Invasive ventilation,311,2238,767
+Oxigen theraphy,1188,1357,771
+prone ventilation,24,261,3031
+renal replacement theraphy,12,273,3031
+tracheostomy inserted,3,282,3031
+Others,7,273,3036
